@@ -29,6 +29,7 @@ fifa_df.head()
 
 <div>
 <style scoped>
+    
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
